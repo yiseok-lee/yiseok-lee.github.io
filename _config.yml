@@ -12,7 +12,7 @@ email: thuyp12377@korea.ac.kr
 website: https://comsys-lab.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/이이석 사진.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a first year M.S course student at Korea University. 
+ Hi, my name is Yiseok Lee, I am in the M.S course student at Korea University's Department of Electrical and Electronic Engineering. My research area is memory system.
 
 content:
   # - title: Projects # Title for the section
