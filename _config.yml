@@ -12,7 +12,7 @@ email: thuyp12377@korea.ac.kr
 website: https://comsys-lab.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: facespics
@@ -90,7 +90,7 @@ content:
       - layout: left
         title: Korea University
         caption: 2022 - 2025
-        sub_title: BSc Semiconductor Engineering
+        sub_title: B.S. Semiconductor Engineering
         quote: >
 
         description: | # this will include new lines to allow paragraphs
