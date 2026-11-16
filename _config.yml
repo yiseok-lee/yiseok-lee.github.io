@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yiseok Lee
-title: Computer Architecture Researcher
+title: M.S. Student in Computer Architecture and System Software
 email: thuyp12377@korea.ac.kr
 website: https://comsys-lab.github.io/
 
@@ -15,25 +15,25 @@ website: https://comsys-lab.github.io/
 darkmode: true
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  yiseok-lee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: yiseok-lee
-linkedin_username: jyiseok-lee
+# instagram_username: yiseok-lee
+# linkedin_username: jyiseok-lee
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: yiseok-lee
+# youtube_username: yiseok-lee
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
