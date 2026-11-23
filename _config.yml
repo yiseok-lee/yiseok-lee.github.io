@@ -48,7 +48,7 @@ github_username:  yiseok-lee
 # about_title: About Me
 about_profile_image: images/이이석 사진.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Yiseok Lee, I am in the M.S course student at Korea University's Department of Electrical and Computer Engineering at Korea University. 
+ Hi, my name is Yiseok Lee, I am in the M.S course student at Korea University's Department of Electrical and Computer Engineering at Korea University. <br>
  My research interests include computer architecture, memory systems, and heterogeneous memory.
 
 content:
@@ -78,7 +78,7 @@ content:
         title: IEEE ESL
         # link: https://dl.acm.org/doi/abs/10.1145/3735452.3735529
         # link_text: Read More
-        # sub_title: Major journal in embedded systems
+        sub_title: Major journal in embedded systems
         caption: 2026
         description: | # this will include new lines to allow paragraphs
             **Futurism: Accelerating K-Means Clustering on Embedded Systems via Vector Engines**<br>
