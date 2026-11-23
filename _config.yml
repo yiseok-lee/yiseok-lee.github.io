@@ -48,7 +48,7 @@ github_username:  yiseok-lee
 # about_title: About Me
 about_profile_image: images/이이석 사진.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Yiseok Lee, I am in the M.S course student at Korea University's Department of Electrical and Electronic Engineering. My research area is memory system.
+ Hi, my name is Yiseok Lee, I am in the M.S course student at Korea University's Department of Electrical and Computer Engineering at Korea University. My research interests include computer architecture, memory systems, and heterogeneous memory.
 
 content:
   # - title: Projects # Title for the section
